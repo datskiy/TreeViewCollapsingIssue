@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TreeViewCollapsingIssue (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "TreeViewCollapsingIssue (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
